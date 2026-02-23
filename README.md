@@ -86,10 +86,6 @@ Desarrollador Full Stack Senior con más de 5 años de experiencia especializado
 
 Certificación que valida el conocimiento fundamental de la plataforma AWS: computación, almacenamiento, redes y seguridad en la nube.
 
-**Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — I.E.S Leonardo Da Vinci · 2018–2020
-
-Formación especializada en desarrollo web full stack: HTML, CSS, JavaScript, PHP y MySQL. Desarrollo de proyectos reales aplicando buenas prácticas de programación.
-
 ---
 
 <div align="center">
