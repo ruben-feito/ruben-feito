@@ -5,8 +5,8 @@
 **Full Stack Developer Senior — Backend & eCommerce Integrations**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubenfeitof/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=astro&logoColor=white)](https://ruben-feito.dev)
-[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=astro&logoColor=white)](https://ruben-feito.vercel.app)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/d8eaeca9-c4b8-46d4-bb20-84753a554412)
 
 </div>
 
