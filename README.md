@@ -5,8 +5,8 @@
 **Full Stack Developer Senior — Backend & eCommerce Integrations**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubenfeitof/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=astro&logoColor=white)](https://ruben-feito.vercel.app)
-[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/d8eaeca9-c4b8-46d4-bb20-84753a554412)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=astro&logoColor=white)](https://ruben-feito.dev)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 
 </div>
 
@@ -31,6 +31,7 @@ Desarrollador Full Stack Senior con más de 5 años de experiencia especializado
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Frontend**
 
@@ -44,6 +45,7 @@ Desarrollador Full Stack Senior con más de 5 años de experiencia especializado
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
@@ -70,15 +72,23 @@ Desarrollador Full Stack Senior con más de 5 años de experiencia especializado
 
 </div>
 
-## GitHub Stats
+---
+
+## Formación y Certificaciones
+
+**AWS Certified Cloud Practitioner** — Amazon Web Services · 2023
 
 <div align="center">
 
-![Rubén's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruben-feito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-feito&layout=compact&theme=tokyonight&hide_border=true)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d8eaeca9-c4b8-46d4-bb20-84753a554412)
 
 </div>
+
+Certificación que valida el conocimiento fundamental de la plataforma AWS: computación, almacenamiento, redes y seguridad en la nube.
+
+**Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — I.E.S Leonardo Da Vinci · 2018–2020
+
+Formación especializada en desarrollo web full stack: HTML, CSS, JavaScript, PHP y MySQL. Desarrollo de proyectos reales aplicando buenas prácticas de programación.
 
 ---
 
